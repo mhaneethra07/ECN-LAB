@@ -26,16 +26,13 @@
 
 
 
-
-
-
-
-
-
-
-
+![WhatsApp Image 2025-10-16 at 15 26 59_e7aaf9b9](https://github.com/user-attachments/assets/d766c3c3-07f7-48b8-88fd-db777a57a8cc)
+![WhatsApp Image 2025-10-16 at 16 28 13_7c2af2e9](https://github.com/user-attachments/assets/ec8dffd6-1de7-432a-bb8c-a8189e0e3803)
+![WhatsApp Image 2025-10-16 at 19 51 43_dfcf4735](https://github.com/user-attachments/assets/1107f7ec-ae48-4cc1-a672-2436688d2cb3)
+![WhatsApp Image 2025-10-16 at 16 29 16_8ef826c8](https://github.com/user-attachments/assets/c87f4afe-2d23-4977-8c13-08af77668b54)
 
 **PROCEDURE:**
+
 
  *1.Give connections as per the circuit diagram.*
 
